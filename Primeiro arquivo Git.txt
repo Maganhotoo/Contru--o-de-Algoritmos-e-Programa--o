@@ -1,3 +1,3 @@
-testando...
+testando!
 
 Primeiro arquivo com Git!
